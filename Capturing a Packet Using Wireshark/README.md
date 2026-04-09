@@ -17,7 +17,7 @@ Capture and analyze network traffic to understand communication patterns and ide
 
 ## 🌐 Step 1: Interface Selection
 
-![Interface](screenshots/interface-selection.png)
+![Interface](Screenshots/interface-selection.png)
 
 Selected active network interface with live traffic.
 
@@ -25,7 +25,7 @@ Selected active network interface with live traffic.
 
 ## ▶️ Step 2: Start Capture
 
-![Capture](screenshots/capture-start.png)
+![Capture](Screenshots/capture-start.png)
 
 Packet capture initiated.
 
@@ -33,7 +33,7 @@ Packet capture initiated.
 
 ## 🌍 Step 3: Generate Traffic
 
-![Browser](screenshots/browser-traffic.png)
+![Browser](Screenshots/browser-traffic.png)
 
 Accessed website to generate network traffic.
 
@@ -41,7 +41,7 @@ Accessed website to generate network traffic.
 
 ## 📡 Step 4: Captured Packets
 
-![Packets](screenshots/captured-packets.png)
+![Packets](Screenshots/captured-packets.png)
 
 Packets successfully captured.
 
@@ -49,7 +49,7 @@ Packets successfully captured.
 
 ## 🔍 Step 5: HTTP Filter
 
-![HTTP](screenshots/http-filter.png)
+![HTTP](Screenshots/http-filter.png)
 
 Filtered traffic using `http`.
 
@@ -57,7 +57,7 @@ Filtered traffic using `http`.
 
 ## 📋 Step 6: Packet List
 
-![List](screenshots/packet-list-pane.png)
+![List](Screenshots/packet-list-pane.png)
 
 Observed communication between client and server.
 
@@ -65,7 +65,7 @@ Observed communication between client and server.
 
 ## 🧠 Step 7: Packet Details
 
-![Details](screenshots/packet-details-pane.png)
+![Details](Screenshots/packet-details-pane.png)
 
 Inspected protocol layers: IP, TCP, HTTP.
 
@@ -73,7 +73,7 @@ Inspected protocol layers: IP, TCP, HTTP.
 
 ## 🔎 Step 8: HTTP Fields
 
-![Fields](screenshots/expanded-http-fields.png)
+![Fields](Screenshots/expanded-http-fields.png)
 
 Identified:
 - GET request
@@ -84,8 +84,8 @@ Identified:
 
 ## 🔗 Step 9: TCP Stream
 
-![TCP Option](screenshots/tcp-stream-option.png)  
-![TCP Window](screenshots/tcp-stream-window.png)
+![TCP Option](Screenshots/tcp-stream-option.png)  
+![TCP Window](Screenshots/tcp-stream-window.png)
 
 Reconstructed session data.
 
@@ -93,8 +93,8 @@ Reconstructed session data.
 
 ## 🌐 Step 10: HTTP Stream
 
-![HTTP Option](screenshots/http-stream-option.png)  
-![HTTP Window](screenshots/http-stream-window.png)
+![HTTP Option](Screenshots/http-stream-option.png)  
+![HTTP Window](Screenshots/http-stream-window.png)
 
 Viewed full request/response.
 
@@ -102,7 +102,7 @@ Viewed full request/response.
 
 ## 💾 Step 11: Save Capture
 
-![Save](screenshots/save-capture-dialog.png)
+![Save](Screenshots/save-capture-dialog.png)
 
 Exported `.pcapng` file.
 
